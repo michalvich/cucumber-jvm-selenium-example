@@ -1,10 +1,10 @@
-cucumber-example
+cucumber-jvm-selenium-example
 ================
 
 This is a simple example how to use [cucumber-jvm](https://github.com/cucumber/cucumber-jvm) in Java
 together with [Selenium](http://seleniumhq.org/)
 
-This basic scenarion test search on Google page. It opens google.com and search for string "Cucumber".
+This basic scenario tests search on Google page. It opens [google.com] and search for string "Cucumber".
 
 <pre>
 Feature: Search on Google
